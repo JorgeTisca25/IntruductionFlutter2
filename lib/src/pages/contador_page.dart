@@ -73,7 +73,8 @@ class ContadorPage extends StatefulWidget{
 
   void _reset(){
     setState(() {
-      _conteo=0;
+      _conteo=0;   
+      ///sss
     });
   }
 
